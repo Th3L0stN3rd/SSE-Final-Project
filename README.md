@@ -1,7 +1,7 @@
 # SSE-Final-Project
 
 ## 1. Purpose
-The purpose of this document is to outline the requirements for the development of a software converter that transforms public Common Vulnerabilities and Exposures (CVE) records into a relational database format.
+This project aims to design and develop software to extract public Common Vulnerability and Exposure (CVE) records from the National Vulnerability Database and populate a relational database. Each record must contain the CVE ID, description, published date and modified date, and severity.
 
 ## 1.2 Scope
 
